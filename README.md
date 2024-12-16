@@ -1,6 +1,6 @@
 # Enhancing Coffee Leaf Disease Classification using Explainable Deep Learning Techniques
 
-> Thesis source for M.S. in Machine Learning & Artifical Intelligence, Liverpool John Moores University (LJMU)
+> Thesis source code for M.S. in Machine Learning & Artifical Intelligence, Liverpool John Moores University (LJMU)
 
 ## Dataset
 
